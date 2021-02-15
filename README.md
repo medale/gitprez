@@ -1,6 +1,6 @@
 # gitprez
 
 ## Background
-All about FooBarBaz
+All about FooBarBaz here.
 
 ## Setups
